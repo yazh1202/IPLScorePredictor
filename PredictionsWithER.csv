@@ -1,0 +1,666 @@
+,TeamBatting,TeamBowling,Venue,Prediction,Actual,Error
+0,Rajasthan Royals,Gujarat Titans,Narendra Modi Stadiu,43.67703461312856,44,0.7340122428896317
+1,Gujarat Titans,Rajasthan Royals,Narendra Modi Stadiu,40.93179731425707,31,32.038055852442156
+2,Royal Challengers Bangalore,Lucknow Super Giants,"Eden Gardens, Kolkat",48.553692412078,52,6.627514592157692
+3,Lucknow Super Giants,Royal Challengers Bangalore,"Eden Gardens, Kolkat",44.20995642854389,62,28.693618663638887
+4,Sunrisers Hyderabad,Punjab Kings,"Wankhede Stadium, Mu",45.15134292064843,43,5.003123071275422
+5,Punjab Kings,Sunrisers Hyderabad,"Wankhede Stadium, Mu",52.22145383230933,62,15.771848657565599
+6,Chennai Super Kings,Rajasthan Royals,"Brabourne Stadium, M",45.309755794822244,75,39.586992273570345
+7,Rajasthan Royals,Chennai Super Kings,"Brabourne Stadium, M",53.559684477529814,52,2.9993932260188725
+8,Lucknow Super Giants,Kolkata Knight Riders,Dr DY Patil Sports A,45.044540812114796,44,2.3739563911699917
+9,Kolkata Knight Riders,Lucknow Super Giants,Dr DY Patil Sports A,47.548060166596194,60,20.75323305567301
+10,Delhi Capitals,Punjab Kings,Dr DY Patil Sports A,47.77339789543813,59,19.028139160274357
+11,Punjab Kings,Delhi Capitals,Dr DY Patil Sports A,47.541157524820335,54,11.960819398480862
+12,Chennai Super Kings,Gujarat Titans,"Wankhede Stadium, Mu",42.88384941540785,47,8.75776720125989
+13,Gujarat Titans,Chennai Super Kings,"Wankhede Stadium, Mu",41.855260481074495,53,21.02781041306699
+14,Punjab Kings,Royal Challengers Bangalore,"Brabourne Stadium, M",51.36235882492378,83,38.11763996997134
+15,Royal Challengers Bangalore,Punjab Kings,"Brabourne Stadium, M",44.98127662458206,44,2.230174146777405
+16,Rajasthan Royals,Delhi Capitals,Dr DY Patil Sports A,44.90880873947781,43,4.439090091808867
+17,Delhi Capitals,Rajasthan Royals,Dr DY Patil Sports A,48.907533471201546,38,28.704035450530384
+18,Kolkata Knight Riders,Mumbai Indians,Dr DY Patil Sports A,45.871990969321324,64,28.325014110435433
+19,Mumbai Indians,Kolkata Knight Riders,Dr DY Patil Sports A,43.990796287146196,37,18.894044019314045
+20,Royal Challengers Bangalore,Sunrisers Hyderabad,"Wankhede Stadium, Mu",47.42365734012706,47,0.9013985960150162
+21,Sunrisers Hyderabad,Royal Challengers Bangalore,"Wankhede Stadium, Mu",47.423770042902525,39,21.599410366416734
+22,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mu",47.62030784179867,48,0.7910253295861036
+23,Rajasthan Royals,Punjab Kings,"Wankhede Stadium, Mu",43.963096687795066,67,34.38343777941035
+24,Delhi Capitals,Sunrisers Hyderabad,"Brabourne Stadium, M",37.280932468248345,50,25.43813506350331
+25,Sunrisers Hyderabad,Delhi Capitals,"Brabourne Stadium, M",43.05565107827678,35,23.016145937933665
+26,Gujarat Titans,Punjab Kings,Dr DY Patil Sports A,45.524529992021186,42,8.391738076240921
+27,Punjab Kings,Gujarat Titans,Dr DY Patil Sports A,37.65751682724472,43,12.424379471523906
+28,Chennai Super Kings,Sunrisers Hyderabad,Maharashtra Cricket ,44.94243293293225,40,12.356082332330622
+29,Sunrisers Hyderabad,Chennai Super Kings,Maharashtra Cricket ,47.59575547047154,58,17.938352637118037
+30,Rajasthan Royals,Mumbai Indians,Dr DY Patil Sports A,32.58313141607561,40,18.542171459810977
+31,Mumbai Indians,Rajasthan Royals,Dr DY Patil Sports A,38.89288679760954,41,5.139300493635264
+32,Lucknow Super Giants,Punjab Kings,Maharashtra Cricket ,48.01054279082425,39,23.10395587390834
+33,Punjab Kings,Lucknow Super Giants,Maharashtra Cricket ,49.982688491249704,46,8.658018459238486
+34,Sunrisers Hyderabad,Gujarat Titans,"Wankhede Stadium, Mu",49.32804054324045,53,6.928225390112362
+35,Gujarat Titans,Sunrisers Hyderabad,"Wankhede Stadium, Mu",40.814737860663264,59,30.822478202265653
+36,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mu",43.61643609824321,37,17.882259724981655
+37,Chennai Super Kings,Punjab Kings,"Wankhede Stadium, Mu",40.33161026566738,32,26.03628208021056
+38,Royal Challengers Bangalore,Sunrisers Hyderabad,"Brabourne Stadium, M",44.690335260845025,31,44.1623718091775
+39,Sunrisers Hyderabad,Royal Challengers Bangalore,"Brabourne Stadium, M",45.67806307946239,56,18.43203021524573
+40,Rajasthan Royals,Delhi Capitals,"Wankhede Stadium, Mu",45.25509337484692,44,2.8524849428339136
+41,Delhi Capitals,Rajasthan Royals,"Wankhede Stadium, Mu",41.887678287228454,55,23.840584932311902
+42,Punjab Kings,Delhi Capitals,"Brabourne Stadium, M",45.35777587462659,47,3.4940938837732123
+43,Delhi Capitals,Punjab Kings,"Brabourne Stadium, M",47.75992478409632,81,41.03712989617738
+44,Rajasthan Royals,Kolkata Knight Riders,"Brabourne Stadium, M",44.28551855095561,60,26.19080241507399
+45,Kolkata Knight Riders,Rajasthan Royals,"Brabourne Stadium, M",44.74497273816382,57,21.50004782778278
+46,Punjab Kings,Sunrisers Hyderabad,Dr DY Patil Sports A,47.419122989411946,48,1.2101604387251128
+47,Sunrisers Hyderabad,Punjab Kings,Dr DY Patil Sports A,44.276826751084656,39,13.530325002781169
+48,Lucknow Super Giants,Mumbai Indians,"Brabourne Stadium, M",46.35606060042688,57,18.67357789398793
+49,Mumbai Indians,Lucknow Super Giants,"Brabourne Stadium, M",50.357085420815686,57,11.65423610383213
+50,Gujarat Titans,Rajasthan Royals,Dr DY Patil Sports A,41.5968195479977,42,0.9599534571483406
+51,Rajasthan Royals,Gujarat Titans,Dr DY Patil Sports A,44.4919995387048,65,31.55076994045415
+52,Chennai Super Kings,Royal Challengers Bangalore,Dr DY Patil Sports A,52.63446866446243,35,50.38419618417838
+53,Royal Challengers Bangalore,Chennai Super Kings,Dr DY Patil Sports A,41.84639200909464,42,0.3657333116794213
+54,Rajasthan Royals,Lucknow Super Giants,"Wankhede Stadium, Mu",48.089675741331455,44,9.294717593935124
+55,Lucknow Super Giants,Rajasthan Royals,"Wankhede Stadium, Mu",51.375995654914426,31,65.72901824165945
+56,Mumbai Indians,Royal Challengers Bangalore,Maharashtra Cricket ,45.52806509025849,49,7.085581448452068
+57,Royal Challengers Bangalore,Mumbai Indians,Maharashtra Cricket ,42.697462805556675,30,42.324876018522254
+58,Punjab Kings,Gujarat Titans,"Brabourne Stadium, M",47.536525723235385,43,10.55005982147764
+59,Gujarat Titans,Punjab Kings,"Brabourne Stadium, M",51.7706460248025,53,2.3195358022594292
+60,Mumbai Indians,Kolkata Knight Riders,Maharashtra Cricket ,47.18468396920625,35,34.813382769160704
+61,Kolkata Knight Riders,Mumbai Indians,Maharashtra Cricket ,42.368679125142776,35,21.05336892897936
+62,Lucknow Super Giants,Sunrisers Hyderabad,Dr DY Patil Sports A,44.41734051726937,32,38.804189116466794
+63,Sunrisers Hyderabad,Lucknow Super Giants,Dr DY Patil Sports A,45.389326158771425,40,13.473315396928562
+64,Gujarat Titans,Delhi Capitals,Maharashtra Cricket ,45.105516070351804,44,2.5125365235268275
+65,Delhi Capitals,Gujarat Titans,Maharashtra Cricket ,46.65271160394149,43,8.494678148701142
+66,Punjab Kings,Kolkata Knight Riders,"Wankhede Stadium, Mu",46.71572416129053,62,24.652057804370113
+67,Kolkata Knight Riders,Punjab Kings,"Wankhede Stadium, Mu",44.43056728021361,51,12.88124062703214
+68,Kolkata Knight Riders,Royal Challengers Bangalore,Dr DY Patil Sports A,44.327231769580315,44,0.7437085672279894
+69,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports A,46.45291119220703,36,29.035864422797314
+70,Lucknow Super Giants,Gujarat Titans,"Wankhede Stadium, Mu",50.43923600382217,32,57.62261251194427
+71,Gujarat Titans,Lucknow Super Giants,"Wankhede Stadium, Mu",46.25219463859321,44,5.118624178620931
+72,Mumbai Indians,Delhi Capitals,"Brabourne Stadium, M",47.053824694918085,53,11.219198688833803
+73,Delhi Capitals,Mumbai Indians,"Brabourne Stadium, M",45.09368242371315,46,1.9702556006235925
+74,Chennai Super Kings,Kolkata Knight Riders,Dubai International ,66.7784150541967,50,33.5568301083934
+75,Kolkata Knight Riders,Chennai Super Kings,Dubai International ,47.03261115539354,55,14.48616153564811
+76,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stad,40.1823164771799,53,24.184308533622826
+77,Kolkata Knight Riders,Royal Challengers Bangalore,Sharjah Cricket Stad,44.68679614324457,48,6.902508034907144
+78,Delhi Capitals,Royal Challengers Bangalore,Dubai International ,49.859528261643796,55,9.346312251556736
+79,Royal Challengers Bangalore,Delhi Capitals,Dubai International ,45.68849085825105,29,57.54652020086569
+80,Kolkata Knight Riders,Rajasthan Royals,Sharjah Cricket Stad,44.731602977995955,34,31.56353817057634
+81,Rajasthan Royals,Kolkata Knight Riders,Sharjah Cricket Stad,42.10766717079381,17,147.69215982819887
+82,Sunrisers Hyderabad,Royal Challengers Bangalore,Zayed Cricket Stadiu,53.04220259090893,50,6.084405181817857
+83,Royal Challengers Bangalore,Sunrisers Hyderabad,Zayed Cricket Stadiu,50.42835381281049,37,36.29284814273106
+84,Chennai Super Kings,Delhi Capitals,Dubai International ,45.927620486305024,48,4.317457320197867
+85,Delhi Capitals,Chennai Super Kings,Dubai International ,41.783554367229065,51,18.07146202504105
+86,Sunrisers Hyderabad,Kolkata Knight Riders,Dubai International ,44.73274239594584,35,27.80783541698812
+87,Kolkata Knight Riders,Sunrisers Hyderabad,Dubai International ,48.394000841370556,36,34.427780114918214
+88,Chennai Super Kings,Rajasthan Royals,Zayed Cricket Stadiu,40.051072327144595,44,8.97483562012592
+89,Rajasthan Royals,Chennai Super Kings,Zayed Cricket Stadiu,42.8646233773479,81,47.08071187981741
+90,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stad,43.92884702188222,41,7.143529321663951
+91,Chennai Super Kings,Sunrisers Hyderabad,Sharjah Cricket Stad,47.24245587051938,47,0.5158635542965508
+92,Punjab Kings,Mumbai Indians,Zayed Cricket Stadiu,47.92083232726595,38,26.107453492805128
+93,Mumbai Indians,Punjab Kings,Zayed Cricket Stadiu,53.18575217499663,30,77.2858405833221
+94,Rajasthan Royals,Sunrisers Hyderabad,Dubai International ,43.96971084013257,49,10.265896244627406
+95,Sunrisers Hyderabad,Rajasthan Royals,Dubai International ,37.82035491862937,63,39.96769060535021
+96,Royal Challengers Bangalore,Mumbai Indians,Dubai International ,49.32593058284019,48,2.76235538091707
+97,Mumbai Indians,Royal Challengers Bangalore,Dubai International ,50.99027839909291,56,8.945931430191235
+98,Punjab Kings,Sunrisers Hyderabad,Sharjah Cricket Stad,58.947933520269714,29,103.26873627679211
+99,Sunrisers Hyderabad,Punjab Kings,Sharjah Cricket Stad,50.83834441849782,20,154.1917220924891
+100,Mumbai Indians,Kolkata Knight Riders,Zayed Cricket Stadiu,41.65237363710485,56,25.620761362312766
+101,Kolkata Knight Riders,Mumbai Indians,Zayed Cricket Stadiu,48.783589023341115,63,22.565731708982355
+102,Rajasthan Royals,Punjab Kings,Dubai International ,44.93648863556142,57,21.164055025330846
+103,Punjab Kings,Rajasthan Royals,Dubai International ,49.330550166257765,49,0.6745921760362561
+104,Chennai Super Kings,Mumbai Indians,Dubai International ,49.708673583372544,24,107.11947326405226
+105,Mumbai Indians,Chennai Super Kings,Dubai International ,39.28267947676882,41,4.188586642027269
+106,Rajasthan Royals,Sunrisers Hyderabad,Arun Jaitley Stadium,41.7730405896328,42,0.5403795484933347
+107,Sunrisers Hyderabad,Rajasthan Royals,Arun Jaitley Stadium,51.06311340742885,57,10.415590513282718
+108,Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadiu,41.3879471132319,49,15.53480180973081
+109,Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadiu,44.204416113094645,36,22.79004475859624
+110,Rajasthan Royals,Mumbai Indians,Arun Jaitley Stadium,37.29530154222178,47,20.64829459101749
+111,Mumbai Indians,Rajasthan Royals,Arun Jaitley Stadium,48.135203409768906,49,1.764891000471621
+112,Royal Challengers Bangalore,Delhi Capitals,Narendra Modi Stadiu,37.720465568581375,36,4.779071023837153
+113,Delhi Capitals,Royal Challengers Bangalore,Narendra Modi Stadiu,46.642550114134,43,8.471046777055822
+114,Delhi Capitals,Sunrisers Hyderabad,MA Chidambaram Stadi,45.98078421341656,51,9.841599581536151
+115,Sunrisers Hyderabad,Delhi Capitals,MA Chidambaram Stadi,44.778163932198034,56,20.0389929782178
+116,Kolkata Knight Riders,Rajasthan Royals,"Wankhede Stadium, Mu",44.48005672542026,25,77.92022690168105
+117,Rajasthan Royals,Kolkata Knight Riders,"Wankhede Stadium, Mu",44.01600596240797,50,11.967988075184067
+118,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mu",44.30039884669291,32,38.43874639591534
+119,Royal Challengers Bangalore,Rajasthan Royals,"Wankhede Stadium, Mu",45.35241080205841,59,23.13150711515524
+120,Punjab Kings,Sunrisers Hyderabad,MA Chidambaram Stadi,52.77801623755894,32,64.93130074237168
+121,Sunrisers Hyderabad,Punjab Kings,MA Chidambaram Stadi,42.9564595987477,50,14.0870808025046
+122,Chennai Super Kings,Rajasthan Royals,"Wankhede Stadium, Mu",35.73782763942834,46,22.30907034906883
+123,Rajasthan Royals,Chennai Super Kings,"Wankhede Stadium, Mu",47.192470454546616,45,4.872156565659146
+124,Royal Challengers Bangalore,Kolkata Knight Riders,MA Chidambaram Stadi,45.96791975225812,45,2.1509327827958202
+125,Kolkata Knight Riders,Royal Challengers Bangalore,MA Chidambaram Stadi,48.29276903771825,57,15.275843793476751
+126,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mu",40.69521571972658,26,56.52006046048685
+127,Chennai Super Kings,Punjab Kings,"Wankhede Stadium, Mu",43.20173882761728,32,35.00543383630399
+128,Royal Challengers Bangalore,Sunrisers Hyderabad,MA Chidambaram Stadi,37.57136099599064,47,20.06093405108375
+129,Sunrisers Hyderabad,Royal Challengers Bangalore,MA Chidambaram Stadi,46.27493422390647,50,7.45013155218706
+130,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mu",49.626045954175474,46,7.88270859603364
+131,Rajasthan Royals,Punjab Kings,"Wankhede Stadium, Mu",45.590475313905436,59,22.72800794253316
+132,Chennai Super Kings,Delhi Capitals,"Wankhede Stadium, Mu",48.36285035186935,33,46.55409197536166
+133,Delhi Capitals,Chennai Super Kings,"Wankhede Stadium, Mu",48.98355112304484,65,24.640690579931015
+134,Delhi Capitals,Mumbai Indians,Dubai International ,47.64463955469565,41,16.206437938282075
+135,Mumbai Indians,Delhi Capitals,Dubai International ,53.35800143132392,61,12.527866506026362
+136,Royal Challengers Bangalore,Sunrisers Hyderabad,Sheikh Zayed Stadium,44.462102933855085,32,38.94407166829714
+137,Sunrisers Hyderabad,Royal Challengers Bangalore,Sheikh Zayed Stadium,48.86854223685889,48,1.8094629934560273
+138,Mumbai Indians,Sunrisers Hyderabad,Sharjah Cricket Stad,44.9492357308058,48,6.355758894154577
+139,Sunrisers Hyderabad,Mumbai Indians,Sharjah Cricket Stad,49.01404943684193,56,12.474911719925126
+140,Kolkata Knight Riders,Rajasthan Royals,Dubai International ,45.075645885011106,55,18.044280209070717
+141,Rajasthan Royals,Kolkata Knight Riders,Dubai International ,38.119651455734754,41,7.0252403518664535
+142,Delhi Capitals,Mumbai Indians,Dubai International ,42.89242445635659,22,94.96556571071179
+143,Mumbai Indians,Delhi Capitals,Dubai International ,45.99691161808595,38,21.04450425812093
+144,Kings XI Punjab,Rajasthan Royals,Sheikh Zayed Stadium,40.185740162388655,53,24.177848750210085
+145,Rajasthan Royals,Kings XI Punjab,Sheikh Zayed Stadium,41.478101573941544,66,37.154391554634024
+146,Royal Challengers Bangalore,Mumbai Indians,Sheikh Zayed Stadium,53.911253097123634,54,0.16434611643771502
+147,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,57.60781991856276,45,28.017377596806135
+148,Kolkata Knight Riders,Kings XI Punjab,Sharjah Cricket Stad,53.263298367274224,54,1.3642622828255109
+149,Kings XI Punjab,Kolkata Knight Riders,Sharjah Cricket Stad,49.39013681492144,36,37.194824485892894
+150,Royal Challengers Bangalore,Chennai Super Kings,Dubai International ,41.409801036380046,46,9.978693399173814
+151,Chennai Super Kings,Royal Challengers Bangalore,Dubai International ,43.98826302975009,48,8.35778535468732
+152,Kolkata Knight Riders,Delhi Capitals,Sheikh Zayed Stadium,43.29582817476774,36,20.266189374354838
+153,Delhi Capitals,Kolkata Knight Riders,Sheikh Zayed Stadium,39.134108287384755,36,8.705856353846544
+154,Rajasthan Royals,Sunrisers Hyderabad,Dubai International ,33.00301139059362,47,29.78082682852421
+155,Sunrisers Hyderabad,Rajasthan Royals,Dubai International ,47.92182359251763,58,17.376166219797184
+156,Delhi Capitals,Kings XI Punjab,Dubai International ,46.90719194553266,53,11.495864253711964
+157,Kings XI Punjab,Delhi Capitals,Dubai International ,48.71323313801289,57,14.53818747717037
+158,Kolkata Knight Riders,Sunrisers Hyderabad,Sheikh Zayed Stadium,45.26615215283183,48,5.695516348267024
+159,Sunrisers Hyderabad,Kolkata Knight Riders,Sheikh Zayed Stadium,42.25716382255803,58,27.142820995589606
+160,Rajasthan Royals,Royal Challengers Bangalore,Dubai International ,43.319559910845186,52,16.693154017605412
+161,Royal Challengers Bangalore,Rajasthan Royals,Dubai International ,43.09380941001132,47,8.311043808486557
+162,Kolkata Knight Riders,Mumbai Indians,Sheikh Zayed Stadium,46.886096170480194,33,42.07907930448543
+163,Mumbai Indians,Kolkata Knight Riders,Sheikh Zayed Stadium,46.993457945798355,51,7.85596481216009
+164,Delhi Capitals,Rajasthan Royals,Dubai International ,42.221389970651934,47,10.167255381591628
+165,Rajasthan Royals,Delhi Capitals,Dubai International ,42.835522889373784,50,14.328954221252433
+166,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stad,43.201178032376646,47,8.082599931113519
+167,Kolkata Knight Riders,Royal Challengers Bangalore,Sharjah Cricket Stad,56.5718735282254,43,31.56249657726838
+168,Delhi Capitals,Mumbai Indians,Sheikh Zayed Stadium,48.020189473514556,46,4.391716246770773
+169,Mumbai Indians,Delhi Capitals,Sheikh Zayed Stadium,40.765529675740446,44,7.3510689187717135
+170,Royal Challengers Bangalore,Chennai Super Kings,Dubai International ,48.12738536902795,36,33.687181580633194
+171,Chennai Super Kings,Royal Challengers Bangalore,Dubai International ,42.55910716422189,26,63.688873708545735
+172,Sunrisers Hyderabad,Kings XI Punjab,Dubai International ,55.23549923167892,58,4.766380635036341
+173,Kings XI Punjab,Sunrisers Hyderabad,Dubai International ,60.42978551291621,45,34.288412250924914
+174,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium,42.91830815138776,57,24.704722541424978
+175,Rajasthan Royals,Mumbai Indians,Sheikh Zayed Stadium,46.42616399061046,31,49.761819324549876
+176,Kings XI Punjab,Chennai Super Kings,Dubai International ,42.05695299498561,46,8.57184131524868
+177,Chennai Super Kings,Kings XI Punjab,Dubai International ,47.67194267421241,60,20.546762209645983
+178,Rajasthan Royals,Royal Challengers Bangalore,Sheikh Zayed Stadium,42.71539973680348,38,12.408946675798623
+179,Royal Challengers Bangalore,Rajasthan Royals,Sheikh Zayed Stadium,45.07673627701904,50,9.846527445961925
+180,Sunrisers Hyderabad,Chennai Super Kings,Dubai International ,44.38467478646481,42,5.677797110630492
+181,Chennai Super Kings,Sunrisers Hyderabad,Dubai International ,47.17758296164544,36,31.048841560126228
+182,Kolkata Knight Riders,Rajasthan Royals,Dubai International ,41.03725908986635,42,2.2922402622229687
+183,Rajasthan Royals,Kolkata Knight Riders,Dubai International ,58.53621722991159,39,50.09286469208101
+184,Royal Challengers Bangalore,Mumbai Indians,Dubai International ,41.987876576878,59,28.834107496816948
+185,Mumbai Indians,Royal Challengers Bangalore,Dubai International ,55.50727986686423,35,58.59222819104066
+186,Sunrisers Hyderabad,Kolkata Knight Riders,Sheikh Zayed Stadium,36.35507855938663,40,9.112303601533434
+187,Kolkata Knight Riders,Sunrisers Hyderabad,Sheikh Zayed Stadium,44.93486902857337,52,13.586790329666604
+188,Kings XI Punjab,Royal Challengers Bangalore,Dubai International ,48.85568915782552,50,2.2886216843489535
+189,Royal Challengers Bangalore,Kings XI Punjab,Dubai International ,43.18513676077921,40,7.962841901948021
+190,Rajasthan Royals,Chennai Super Kings,Sharjah Cricket Stad,47.41036928967282,54,12.20301983393922
+191,Chennai Super Kings,Rajasthan Royals,Sharjah Cricket Stad,52.363551456732196,53,1.20084630805246
+192,Delhi Capitals,Kings XI Punjab,Dubai International ,41.208461376375254,23,79.16722337554458
+193,Kings XI Punjab,Delhi Capitals,Dubai International ,45.36702851085334,35,29.620081459580966
+194,Mumbai Indians,Chennai Super Kings,Rajiv Gandhi Interna,43.89312925477566,45,2.4597127671652035
+195,Chennai Super Kings,Mumbai Indians,Rajiv Gandhi Interna,39.77005482602477,53,24.962160705613645
+196,Sunrisers Hyderabad,Delhi Capitals,Dr. Y.S. Rajasekhara,50.54267222476559,54,6.402458843026687
+197,Delhi Capitals,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara,46.85108345969603,55,14.816211891461768
+198,Chennai Super Kings,Kings XI Punjab,Punjab Cricket Assoc,44.49601125078164,42,5.9428839304324805
+199,Kings XI Punjab,Chennai Super Kings,Punjab Cricket Assoc,43.294581202265164,68,36.331498231962996
+200,Sunrisers Hyderabad,Royal Challengers Bangalore,M.Chinnaswamy Stadiu,41.59376338180111,52,20.011993496536327
+201,Royal Challengers Bangalore,Sunrisers Hyderabad,M.Chinnaswamy Stadiu,49.25350356488587,49,0.517354214052792
+202,Kings XI Punjab,Kolkata Knight Riders,Punjab Cricket Assoc,48.22604230416694,41,17.62449342479741
+203,Kolkata Knight Riders,Kings XI Punjab,Punjab Cricket Assoc,37.40437709663047,62,39.67035952156376
+204,Chennai Super Kings,Delhi Capitals,MA Chidambaram Stadi,50.91549959747885,27,88.57592443510684
+205,Delhi Capitals,Chennai Super Kings,MA Chidambaram Stadi,49.088024492347834,59,16.799958487546043
+206,Sunrisers Hyderabad,Kings XI Punjab,Rajiv Gandhi Interna,41.10974835761469,77,46.610716418682216
+207,Kings XI Punjab,Sunrisers Hyderabad,Rajiv Gandhi Interna,45.609659733716,44,3.658317576627274
+208,Delhi Capitals,Royal Challengers Bangalore,Arun Jaitley Stadium,45.31258998100345,59,23.199000032197546
+209,Royal Challengers Bangalore,Delhi Capitals,Arun Jaitley Stadium,48.20174864457337,64,24.684767742854106
+210,Mumbai Indians,Chennai Super Kings,MA Chidambaram Stadi,47.43291503599188,45,5.406477857759739
+211,Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadi,44.646186581908914,40,11.615466454772285
+212,Royal Challengers Bangalore,Kings XI Punjab,M.Chinnaswamy Stadiu,42.40537673949272,70,39.42089037215325
+213,Kings XI Punjab,Royal Challengers Bangalore,M.Chinnaswamy Stadiu,44.88820875587893,68,33.98792830017805
+214,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadi,37.329582742778356,52,28.21234087927239
+215,Delhi Capitals,Rajasthan Royals,Sawai Mansingh Stadi,43.8587904757388,59,25.66306699027322
+216,Royal Challengers Bangalore,Chennai Super Kings,M.Chinnaswamy Stadiu,43.33842389936876,49,11.554236940063749
+217,Chennai Super Kings,Royal Challengers Bangalore,M.Chinnaswamy Stadiu,44.28885512040222,32,38.40267225125693
+218,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadi,47.40449075953566,46,3.053240781599265
+219,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadi,39.63763190862892,60,33.93728015228514
+220,Mumbai Indians,Delhi Capitals,Arun Jaitley Stadium,42.020796143478165,57,26.279305011441817
+221,Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,52.36534162079062,48,9.094461709980466
+222,Kings XI Punjab,Rajasthan Royals,Punjab Cricket Assoc,41.831515053074654,39,7.260295007883727
+223,Rajasthan Royals,Kings XI Punjab,Punjab Cricket Assoc,45.20517397924906,54,16.28671485324248
+224,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,44.7916721343855,49,8.588424215539796
+225,Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,45.69101763579146,44,3.8432218995260476
+226,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,44.08832554672454,57,22.65206044434291
+227,Rajasthan Royals,Mumbai Indians,Wankhede Stadium,55.99147164745999,59,5.099200597525443
+228,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,46.31382523548658,41,12.960549354845325
+229,Delhi Capitals,Kolkata Knight Riders,Eden Gardens,46.646924159196516,57,18.163290948778045
+230,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,48.626912259266994,50,2.746175481466011
+231,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,38.79733085796683,50,22.405338284066346
+232,Sunrisers Hyderabad,Kings XI Punjab,Punjab Cricket Assoc,39.99025069538032,27,48.112039612519695
+233,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Assoc,44.52834391489348,38,17.17985240761443
+234,Royal Challengers Bangalore,Delhi Capitals,M.Chinnaswamy Stadiu,41.77361431169594,40,4.434035779239842
+235,Delhi Capitals,Royal Challengers Bangalore,M.Chinnaswamy Stadiu,45.920988513379875,53,13.356625446453066
+236,Chennai Super Kings,Kings XI Punjab,MA Chidambaram Stadi,43.174389780519846,54,20.047426332370655
+237,Kings XI Punjab,Chennai Super Kings,MA Chidambaram Stadi,37.15274065842024,46,19.233172481695124
+238,Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,47.63728549599005,36,32.325793044416805
+239,Sunrisers Hyderabad,Delhi Capitals,Arun Jaitley Stadium,43.483806331754394,62,29.864828497170333
+240,Royal Challengers Bangalore,Rajasthan Royals,Sawai Mansingh Stadi,47.45750181083628,48,1.1302045607577562
+241,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadi,44.42931354158813,55,19.21942992438522
+242,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi Interna,48.72914898552463,59,17.40822205843283
+243,Royal Challengers Bangalore,Sunrisers Hyderabad,Rajiv Gandhi Interna,48.69795227911109,30,62.32650759703697
+244,Kolkata Knight Riders,Delhi Capitals,Arun Jaitley Stadium,37.88943102745615,36,5.248419520711521
+245,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,45.719070219215936,45,1.5979338204798588
+246,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi Interna,41.71861558785744,35,19.19604453673555
+247,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi Interna,47.23990999957538,69,31.536362319455968
+248,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,42.01009218334857,53,20.735675125757417
+249,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,46.661424673062676,51,8.507010444975146
+250,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadi,51.17187317262932,32,59.91210366446662
+251,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadi,44.283617036482866,64,30.806848380495524
+252,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,43.54741260112597,54,19.356643331248204
+253,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,49.261384162218704,47,4.8114556642951145
+254,Sunrisers Hyderabad,Chennai Super Kings,Wankhede Stadium,42.23962567603882,42,0.5705373239019519
+255,Chennai Super Kings,Sunrisers Hyderabad,Wankhede Stadium,43.58957924957004,35,24.541654998771552
+256,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,45.2321742470292,46,1.6691864195017403
+257,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,44.89231107547658,51,11.975860636320437
+258,Kings XI Punjab,Chennai Super Kings,Maharashtra Cricket ,38.99605127325964,29,34.46914232158496
+259,Chennai Super Kings,Kings XI Punjab,Maharashtra Cricket ,43.970387359828855,33,33.24359806008744
+260,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi Interna,47.66081544073676,60,20.565307598772062
+261,Kolkata Knight Riders,Sunrisers Hyderabad,Rajiv Gandhi Interna,45.17076663329603,66,31.559444495006012
+262,Delhi Daredevils,Chennai Super Kings,Arun Jaitley Stadium,46.510031245701164,39,19.256490373592726
+263,Chennai Super Kings,Delhi Daredevils,Arun Jaitley Stadium,43.75347596117935,44,0.5602819064105737
+264,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,42.836849971114724,60,28.60525004814213
+265,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,42.39276672105791,57,25.626725050775594
+266,Kings XI Punjab,Royal Challengers Bangalore,Holkar Cricket Stadi,42.62310062424715,47,9.312551863303934
+267,Royal Challengers Bangalore,Kings XI Punjab,Holkar Cricket Stadi,41.62187673000452,66,36.936550409084056
+268,Sunrisers Hyderabad,Chennai Super Kings,Maharashtra Cricket ,45.130700663565314,29,55.62310573643212
+269,Chennai Super Kings,Sunrisers Hyderabad,Maharashtra Cricket ,45.0826217204336,53,14.938449584087547
+270,Kolkata Knight Riders,Kings XI Punjab,Holkar Cricket Stadi,45.98307669588354,59,22.06258187138383
+271,Kings XI Punjab,Kolkata Knight Riders,Holkar Cricket Stadi,46.43761886746824,58,19.93513988367545
+272,Delhi Daredevils,Sunrisers Hyderabad,Arun Jaitley Stadium,43.97726222728061,38,15.729637440212136
+273,Sunrisers Hyderabad,Delhi Daredevils,Arun Jaitley Stadium,38.559988611778365,51,24.39217919259144
+274,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadi,49.16775677246729,63,21.955941631004297
+275,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadi,45.255396194139145,33,37.137564224664075
+276,Rajasthan Royals,Kings XI Punjab,Holkar Cricket Stadi,53.127865693635776,45,18.061923763635058
+277,Kings XI Punjab,Rajasthan Royals,Holkar Cricket Stadi,49.51538282413647,34,45.633478894519044
+278,Delhi Daredevils,Sunrisers Hyderabad,Rajiv Gandhi Interna,40.776703589851955,60,32.03882735024674
+279,Sunrisers Hyderabad,Delhi Daredevils,Rajiv Gandhi Interna,40.63184294567154,61,33.39042140053846
+280,Kings XI Punjab,Mumbai Indians,Holkar Cricket Stadi,35.10244292069238,49,28.362361386342076
+281,Mumbai Indians,Kings XI Punjab,Holkar Cricket Stadi,47.005476828317455,39,20.526863662352447
+282,Delhi Daredevils,Rajasthan Royals,Arun Jaitley Stadium,56.62131817804809,62,8.675293261212754
+283,Rajasthan Royals,Delhi Daredevils,Arun Jaitley Stadium,42.98869014315788,79,45.58393652764825
+284,Chennai Super Kings,Delhi Daredevils,Maharashtra Cricket ,36.654517531287425,56,34.54550440841531
+285,Delhi Daredevils,Chennai Super Kings,Maharashtra Cricket ,39.34173436595317,59,33.31909429499462
+286,Royal Challengers Bangalore,Kolkata Knight Riders,M.Chinnaswamy Stadiu,47.8025159805258,40,19.506289951314493
+287,Kolkata Knight Riders,Royal Challengers Bangalore,M.Chinnaswamy Stadiu,46.58896990372823,51,8.649078620140731
+288,Delhi Daredevils,Kolkata Knight Riders,Arun Jaitley Stadium,49.62536427450724,57,12.93795741314519
+289,Kolkata Knight Riders,Delhi Daredevils,Arun Jaitley Stadium,43.60220914009088,51,14.505472274331613
+290,Royal Challengers Bangalore,Chennai Super Kings,M.Chinnaswamy Stadiu,45.98324572946624,52,11.570681289488
+291,Chennai Super Kings,Royal Challengers Bangalore,M.Chinnaswamy Stadiu,45.518243954549675,55,17.23955644627332
+292,Kings XI Punjab,Delhi Daredevils,Arun Jaitley Stadium,48.01027580589147,51,5.862204302173593
+293,Delhi Daredevils,Kings XI Punjab,Arun Jaitley Stadium,50.7947139128154,48,5.822320651698757
+294,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi Interna,45.45936070765155,27,68.36800262093166
+295,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi Interna,48.73409127423997,40,21.83522818559993
+296,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,44.680944686113655,50,10.63811062777269
+297,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,42.904781771026364,73,41.226326341059774
+298,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Assoc,45.51124435097428,49,7.119909487807591
+299,Sunrisers Hyderabad,Kings XI Punjab,Punjab Cricket Assoc,44.02527812125024,40,10.063195303125596
+300,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,39.18846263586846,60,34.6858956068859
+301,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,45.59165712922151,55,17.106077946869984
+302,Kings XI Punjab,Chennai Super Kings,Punjab Cricket Assoc,38.186308303875215,75,49.08492226149971
+303,Chennai Super Kings,Kings XI Punjab,Punjab Cricket Assoc,45.711066118822714,53,13.752705436183557
+304,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,51.04210764136765,49,4.167566615036021
+305,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,41.25166678065174,46,10.322463520322307
+306,Kings XI Punjab,Royal Challengers Bangalore,M.Chinnaswamy Stadiu,44.40652973398769,50,11.186940532024622
+307,Royal Challengers Bangalore,Kings XI Punjab,M.Chinnaswamy Stadiu,42.78773944870169,41,4.360340118784617
+308,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadi,48.5428731395917,51,4.81789580472216
+309,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadi,46.94331887588945,60,21.761135206850913
+310,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi Interna,40.84199868671135,48,14.912502736018022
+311,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi Interna,54.825599026110446,57,3.8147385506834284
+312,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,50.15613843725809,52,3.5458876206575134
+313,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,46.25104650470855,68,31.98375514013449
+314,Mumbai Indians,Rising Pune Supergiant,Rajiv Gandhi Interna,44.121333306246065,32,37.879166582018954
+315,Rising Pune Supergiant,Mumbai Indians,Rajiv Gandhi Interna,38.331608718434545,38,0.8726545221961707
+316,Sunrisers Hyderabad,Kolkata Knight Riders,M Chinnaswamy Stadiu,44.3323095287941,30,47.77436509598033
+317,Kolkata Knight Riders,Sunrisers Hyderabad,M Chinnaswamy Stadiu,49.92508681873465,48,4.010597539030517
+318,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,40.14330471349658,37,8.495418144585361
+319,Royal Challengers Bangalore,Delhi Daredevils,Feroz Shah Kotla,43.690473162212484,42,4.024936100505914
+320,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,41.721871794428935,51,18.192408246217774
+321,Mumbai Indians,Kolkata Knight Riders,Eden Gardens,39.21069914380513,53,26.01754878527334
+322,Delhi Daredevils,Rising Pune Supergiant,Feroz Shah Kotla,46.011527677674266,54,14.793467263566173
+323,Rising Pune Supergiant,Delhi Daredevils,Feroz Shah Kotla,46.484872707405444,53,12.292693004895389
+324,Gujarat Lions,Delhi Daredevils,Green Park,48.74667823105052,50,2.5066435378989667
+325,Delhi Daredevils,Gujarat Lions,Green Park,48.8315850125909,64,23.70064841782672
+326,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi Interna,46.137676963553595,36,28.160213787648875
+327,Mumbai Indians,Sunrisers Hyderabad,Rajiv Gandhi Interna,45.66128488420097,43,6.189034614420853
+328,Kings XI Punjab,Gujarat Lions,Punjab Cricket Assoc,42.46283693084087,44,3.493552429907109
+329,Gujarat Lions,Kings XI Punjab,Punjab Cricket Assoc,48.299378612922204,58,16.725209288065166
+330,Sunrisers Hyderabad,Rising Pune Supergiant,Rajiv Gandhi Interna,42.79737479863191,35,22.278213710376875
+331,Rising Pune Supergiant,Sunrisers Hyderabad,Rajiv Gandhi Interna,49.364451961235275,47,5.030748853692075
+332,Delhi Daredevils,Gujarat Lions,Feroz Shah Kotla,45.19839698138411,58,22.071729342441195
+333,Gujarat Lions,Delhi Daredevils,Feroz Shah Kotla,43.80763935741565,63,30.464064512038647
+334,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,40.12822478594038,66,39.19965941524185
+335,Sunrisers Hyderabad,Delhi Daredevils,Feroz Shah Kotla,43.63444029703541,62,29.62187048865256
+336,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,44.868363690032524,52,13.714685211475915
+337,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,42.44761551769174,55,22.822517240560476
+338,Kings XI Punjab,Delhi Daredevils,Punjab Cricket Assoc,54.98256120123945,25,119.9302448049578
+339,Delhi Daredevils,Kings XI Punjab,Punjab Cricket Assoc,41.10007498327252,50,17.79985003345496
+340,Rising Pune Supergiant,Royal Challengers Bangalore,Maharashtra Cricket ,41.402560974587246,43,3.7149744777040796
+341,Royal Challengers Bangalore,Rising Pune Supergiant,Maharashtra Cricket ,42.91018212522854,39,10.026108013406507
+342,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Assoc,47.864112337890994,60,20.226479436848344
+343,Sunrisers Hyderabad,Kings XI Punjab,Punjab Cricket Assoc,44.00994386794439,59,25.406874800094247
+344,Rising Pune Supergiant,Kolkata Knight Riders,Maharashtra Cricket ,45.57864981719778,57,20.03745646105653
+345,Kolkata Knight Riders,Rising Pune Supergiant,Maharashtra Cricket ,46.698091547075556,45,3.773536771279014
+346,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,41.99305598163957,65,35.395298489785276
+347,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,50.35545390249051,39,29.116548467924385
+348,Rising Pune Supergiant,Sunrisers Hyderabad,Maharashtra Cricket ,45.017716062394214,45,0.039369027542698457
+349,Sunrisers Hyderabad,Rising Pune Supergiant,Maharashtra Cricket ,44.15652708702828,55,19.71540529631222
+350,Kolkata Knight Riders,Gujarat Lions,Eden Gardens,45.70250641542651,65,29.688451668574594
+351,Gujarat Lions,Kolkata Knight Riders,Eden Gardens,49.56908109748831,72,31.154054031266238
+352,Sunrisers Hyderabad,Delhi Daredevils,Rajiv Gandhi Interna,54.11848850136442,39,38.765355131703636
+353,Delhi Daredevils,Sunrisers Hyderabad,Rajiv Gandhi Interna,46.40000586197384,56,17.142846675046716
+354,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,36.22850648878917,53,31.644327379643073
+355,Kolkata Knight Riders,Delhi Daredevils,Feroz Shah Kotla,51.94620224623155,49,6.012657645370511
+356,Royal Challengers Bangalore,Rising Pune Supergiant,M Chinnaswamy Stadiu,43.27577766128231,55,21.316767888577616
+357,Rising Pune Supergiant,Royal Challengers Bangalore,M Chinnaswamy Stadiu,38.57643528956978,42,8.151344548643381
+358,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,45.60525083425288,49,6.9280595219329015
+359,Kings XI Punjab,Delhi Daredevils,Feroz Shah Kotla,59.799992661464266,40,49.49998165366066
+360,Gujarat Lions,Rising Pune Supergiant,Saurashtra Cricket A,40.63257173640364,64,36.51160666186931
+361,Rising Pune Supergiant,Gujarat Lions,Saurashtra Cricket A,43.72843887201055,61,28.31403463604828
+362,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,51.793314836559205,57,9.134535374457537
+363,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,47.48393120377962,76,37.52114315292155
+364,Rising Pune Supergiant,Delhi Daredevils,Maharashtra Cricket ,42.744189861856434,62,31.057758287328337
+365,Delhi Daredevils,Rising Pune Supergiant,Maharashtra Cricket ,45.28938615600831,50,9.421227687983375
+366,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,42.32714370951156,59,28.259078458454983
+367,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,46.071652734542276,49,5.976218909097396
+368,Royal Challengers Bangalore,Delhi Daredevils,M.Chinnaswamy Stadiu,45.47914338695114,41,10.924739968173505
+369,Delhi Daredevils,Royal Challengers Bangalore,M.Chinnaswamy Stadiu,46.82524867190192,43,8.895927143957948
+370,Gujarat Lions,Kolkata Knight Riders,Saurashtra Cricket A,46.34581465113161,52,10.873433363208438
+371,Kolkata Knight Riders,Gujarat Lions,Saurashtra Cricket A,45.77617182216837,73,37.29291531209812
+372,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi Interna,40.91640577359657,59,30.65015970576852
+373,Royal Challengers Bangalore,Sunrisers Hyderabad,Rajiv Gandhi Interna,39.83561926675184,54,26.23033469120029
+374,Gujarat Lions,Sunrisers Hyderabad,Feroz Shah Kotla,41.81130673449462,38,10.02975456445953
+375,Sunrisers Hyderabad,Gujarat Lions,Feroz Shah Kotla,46.866254206386735,46,1.8831613182320321
+376,Gujarat Lions,Royal Challengers Bangalore,M Chinnaswamy Stadiu,50.16095880004162,23,118.09112521757226
+377,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadiu,44.50376063511289,31,43.560518177783514
+378,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,46.084663429242546,48,3.9902845224113617
+379,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,54.826731391816736,48,14.222357066284866
+380,Rising Pune Supergiants,Kings XI Punjab,Dr. Y.S. Rajasekhara,41.09895816855748,52,20.96354198354331
+381,Kings XI Punjab,Rising Pune Supergiants,Dr. Y.S. Rajasekhara,51.254702146942954,44,16.48795942487035
+382,Gujarat Lions,Kolkata Knight Riders,Green Park,46.11389240556118,44,4.804300921729957
+383,Kolkata Knight Riders,Gujarat Lions,Green Park,42.34573018952578,55,23.007763291771308
+384,Rising Pune Supergiants,Delhi Daredevils,Dr. Y.S. Rajasekhara,44.10374334335118,28,57.51336908339706
+385,Delhi Daredevils,Rising Pune Supergiants,Dr. Y.S. Rajasekhara,39.92884625411598,44,9.252622149736405
+386,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Assoc,46.105099629469706,47,1.9040433415538176
+387,Sunrisers Hyderabad,Kings XI Punjab,Punjab Cricket Assoc,41.36237389690296,55,24.7956838238128
+388,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadiu,39.319486183231085,42,6.382175754211702
+389,Gujarat Lions,Royal Challengers Bangalore,M Chinnaswamy Stadiu,49.442763190290236,41,20.59210534217131
+390,Mumbai Indians,Kings XI Punjab,Dr. Y.S. Rajasekhara,46.05990677634245,21,119.33288941115454
+391,Kings XI Punjab,Mumbai Indians,Dr. Y.S. Rajasekhara,48.80572247915255,32,52.51788274735172
+392,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadiu,46.69534983984977,25,86.78139935939907
+393,Mumbai Indians,Royal Challengers Bangalore,M Chinnaswamy Stadiu,50.22846786302271,39,28.790943238519763
+394,Kings XI Punjab,Royal Challengers Bangalore,Punjab Cricket Assoc,45.939219889865214,56,17.96567876809783
+395,Royal Challengers Bangalore,Kings XI Punjab,Punjab Cricket Assoc,57.91227366117602,50,15.824547322352045
+396,Mumbai Indians,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara,46.81259869069191,51,8.210590802564889
+397,Sunrisers Hyderabad,Mumbai Indians,Dr. Y.S. Rajasekhara,46.85516415443947,32,46.42238798262335
+398,Royal Challengers Bangalore,Rising Pune Supergiants,M Chinnaswamy Stadiu,41.546396149364,60,30.756006417726667
+399,Rising Pune Supergiants,Royal Challengers Bangalore,M Chinnaswamy Stadiu,48.04549236610082,46,4.446722535001775
+400,Delhi Daredevils,Rising Pune Supergiants,Feroz Shah Kotla,46.30203659431588,48,3.537423761841918
+401,Rising Pune Supergiants,Delhi Daredevils,Feroz Shah Kotla,44.00956743536812,50,11.980865129263762
+402,Gujarat Lions,Delhi Daredevils,Saurashtra Cricket A,40.74320071991159,35,16.40914491403312
+403,Delhi Daredevils,Gujarat Lions,Saurashtra Cricket A,44.142885599674536,61,27.63461377102535
+404,Gujarat Lions,Kings XI Punjab,Saurashtra Cricket A,45.59457887858324,59,22.721052748164
+405,Kings XI Punjab,Gujarat Lions,Saurashtra Cricket A,52.876968414829896,36,46.88046781897193
+406,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,50.00069435380115,37,35.13701176703014
+407,Kolkata Knight Riders,Delhi Daredevils,Feroz Shah Kotla,42.05481375461962,43,2.1981075473962255
+408,Rising Pune Supergiants,Gujarat Lions,Maharashtra Cricket ,48.79040748819839,48,1.6466822670799797
+409,Gujarat Lions,Rising Pune Supergiants,Maharashtra Cricket ,46.04146734504651,72,36.05351757632429
+410,Delhi Daredevils,Gujarat Lions,Feroz Shah Kotla,43.711189473690304,71,38.43494440325309
+411,Gujarat Lions,Delhi Daredevils,Feroz Shah Kotla,43.66148381810963,22,98.4612900823165
+412,Kings XI Punjab,Mumbai Indians,Punjab Cricket Assoc,54.778896712694724,39,40.458709519730064
+413,Mumbai Indians,Kings XI Punjab,Punjab Cricket Assoc,39.99871089107882,40,0.003222772302944321
+414,Gujarat Lions,Royal Challengers Bangalore,Saurashtra Cricket A,38.131470400279554,50,23.737059199440893
+415,Royal Challengers Bangalore,Gujarat Lions,Saurashtra Cricket A,45.04224904567416,72,37.441320769897
+416,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,49.62692995621381,41,21.041292576131237
+417,Mumbai Indians,Delhi Daredevils,Feroz Shah Kotla,43.32129114500097,52,16.68982472115198
+418,Gujarat Lions,Sunrisers Hyderabad,Saurashtra Cricket A,56.9121439481361,50,13.824287896272198
+419,Sunrisers Hyderabad,Gujarat Lions,Saurashtra Cricket A,50.31070472178778,63,20.141738536844795
+420,Kings XI Punjab,Kolkata Knight Riders,Punjab Cricket Assoc,41.01596170617128,41,0.03893099066166398
+421,Kolkata Knight Riders,Kings XI Punjab,Punjab Cricket Assoc,40.702024456327685,65,37.381500836418944
+422,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadiu,44.17855754586377,63,29.875305482755927
+423,Delhi Daredevils,Royal Challengers Bangalore,M Chinnaswamy Stadiu,49.448810474513415,51,3.0415480891893822
+424,Mumbai Indians,Gujarat Lions,Wankhede Stadium,41.346955936729145,31,33.377277215255305
+425,Gujarat Lions,Mumbai Indians,Wankhede Stadium,40.85710990240122,42,2.7211668990447144
+426,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,42.26736499631429,37,14.236121611660248
+427,Kings XI Punjab,Delhi Daredevils,Feroz Shah Kotla,41.31433230402947,28,47.55118680010525
+428,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,44.197067208587875,40,10.492668021469687
+429,Mumbai Indians,Kolkata Knight Riders,Eden Gardens,47.30238259821988,53,10.750221512792683
+430,Kings XI Punjab,Gujarat Lions,Punjab Cricket Assoc,44.126051307136834,52,15.142209024736857
+431,Gujarat Lions,Kings XI Punjab,Punjab Cricket Assoc,43.75179228603972,57,23.242469673614522
+432,Mumbai Indians,Rising Pune Supergiants,Wankhede Stadium,41.60014221219786,37,12.432816789723944
+433,Rising Pune Supergiants,Mumbai Indians,Wankhede Stadium,45.32754254047561,57,20.477995543025244
+434,Chennai Super Kings,Royal Challengers Bangalore,JSCA International S,51.50595567614433,29,77.60674371084252
+435,Royal Challengers Bangalore,Chennai Super Kings,JSCA International S,50.048031777748896,34,47.20009346396734
+436,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,49.574267193302795,48,3.279723319380823
+437,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,47.39870354535774,54,12.224623064152333
+438,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi Interna,43.885968673537675,29,51.33092646047474
+439,Mumbai Indians,Sunrisers Hyderabad,Rajiv Gandhi Interna,43.53500789730686,38,14.565810256070687
+440,Kings XI Punjab,Chennai Super Kings,Punjab Cricket Assoc,52.15350112042226,41,27.203661269322595
+441,Chennai Super Kings,Kings XI Punjab,Punjab Cricket Assoc,46.888658831493316,47,0.23689610320570983
+442,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,42.94247612463125,46,6.646791033410329
+443,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,45.903714532982434,50,8.192570934035132
+444,Delhi Daredevils,Chennai Super Kings,Shaheed Veer Narayan,44.50994728126477,16,178.18717050790482
+445,Chennai Super Kings,Delhi Daredevils,Shaheed Veer Narayan,51.73661152661403,28,84.7736125950501
+446,Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadi,44.29176817998041,36,23.032689388834466
+447,Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadi,47.52468342872318,40,18.811708571807948
+448,Delhi Daredevils,Sunrisers Hyderabad,Shaheed Veer Narayan,42.636336761704136,41,3.9910652724491125
+449,Sunrisers Hyderabad,Delhi Daredevils,Shaheed Veer Narayan,46.209340558054556,49,5.695223350909068
+450,Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadi,47.11452447374833,44,7.078464713064392
+451,Mumbai Indians,Chennai Super Kings,MA Chidambaram Stadi,44.44950117082306,61,27.131965293732684
+452,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,47.60882822296774,50,4.782343554064525
+453,Delhi Daredevils,Kolkata Knight Riders,Eden Gardens,42.57910189696862,36,18.275283047135066
+454,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,44.10415120229177,44,0.2367072779358346
+455,Delhi Daredevils,Mumbai Indians,Wankhede Stadium,49.56147353993194,41,20.8816427803218
+456,Chennai Super Kings,Royal Challengers Bangalore,MA Chidambaram Stadi,48.785003408753184,37,31.851360564197794
+457,Royal Challengers Bangalore,Chennai Super Kings,MA Chidambaram Stadi,42.81944382052347,42,1.9510567155320655
+458,Rajasthan Royals,Delhi Daredevils,Brabourne Stadium,41.480254009194944,43,3.534293001872223
+459,Delhi Daredevils,Rajasthan Royals,Brabourne Stadium,52.4882679347336,55,4.566785573211638
+460,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi Interna,43.01510349205117,76,43.40117961572215
+461,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi Interna,38.4165357357052,54,28.858267156101476
+462,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,53.96021112188924,27,99.85263378477495
+463,Kings XI Punjab,Delhi Daredevils,Feroz Shah Kotla,44.312963848565936,41,8.080399630648623
+464,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadiu,42.40240395772702,52,18.45691546590958
+465,Rajasthan Royals,Royal Challengers Bangalore,M Chinnaswamy Stadiu,40.50876416834283,0,23.676913752984913
+466,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Assoc,46.8674741622534,56,16.308081853118924
+467,Sunrisers Hyderabad,Kings XI Punjab,Punjab Cricket Assoc,46.732850032231305,36,29.813472311753625
+468,Chennai Super Kings,Kings XI Punjab,MA Chidambaram Stadi,45.484415655588315,54,15.769600637799416
+469,Kings XI Punjab,Chennai Super Kings,MA Chidambaram Stadi,46.89493615639188,39,20.243426042030457
+470,Rajasthan Royals,Royal Challengers Bangalore,Sardar Patel Stadium,38.52747995174411,48,19.734416767199768
+471,Royal Challengers Bangalore,Rajasthan Royals,Sardar Patel Stadium,37.46625100379757,49,23.538263257555986
+472,Sunrisers Hyderabad,Kolkata Knight Riders,Dr. Y.S. Rajasekhara,43.37074019664347,43,0.8621865038220171
+473,Kolkata Knight Riders,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara,45.59985581286509,49,6.939069769663088
+474,Rajasthan Royals,Kings XI Punjab,Sardar Patel Stadium,40.47385342393385,43,5.874759479223597
+475,Kings XI Punjab,Rajasthan Royals,Sardar Patel Stadium,42.89283181912211,40,7.23207954780527
+476,Rajasthan Royals,Chennai Super Kings,Sardar Patel Stadium,41.3990131121842,39,6.151315672267179
+477,Chennai Super Kings,Rajasthan Royals,Sardar Patel Stadium,46.03108074743037,47,2.061530324616228
+478,Sunrisers Hyderabad,Delhi Daredevils,Dr. Y.S. Rajasekhara,44.12373875084112,40,10.3093468771028
+479,Delhi Daredevils,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara,47.33962784780992,50,5.320744304380156
+480,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,45.91972834193577,31,48.1281559417283
+481,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,42.82019127844292,90,52.42200969061898
+482,Kings XI Punjab,Delhi Daredevils,Maharashtra Cricket ,43.33795337069598,41,5.702325294380433
+483,Delhi Daredevils,Kings XI Punjab,Maharashtra Cricket ,42.70712961791516,47,9.133766770393283
+484,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadiu,43.96978215053337,47,6.447272020141767
+485,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadiu,41.8283054651267,65,35.648760822882004
+486,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,44.39154915241569,51,12.957746759969233
+487,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,44.56376454027296,42,6.104201286364199
+488,Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadi,35.72123559281926,49,27.099519198328036
+489,Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadi,49.49848845780211,46,7.605409690874154
+490,Chennai Super Kings,Delhi Daredevils,MA Chidambaram Stadi,44.07423763343865,59,25.29790231620568
+491,Delhi Daredevils,Chennai Super Kings,MA Chidambaram Stadi,47.110576034337846,40,17.776440085844616
+492,Kolkata Knight Riders,Kings XI Punjab,M Chinnaswamy Stadiu,38.998536326373646,32,21.870426019917645
+493,Kings XI Punjab,Kolkata Knight Riders,M Chinnaswamy Stadiu,44.076542832973686,59,25.293995198349684
+494,Chennai Super Kings,Mumbai Indians,Brabourne Stadium,37.23158113419544,53,29.751733709065213
+495,Mumbai Indians,Chennai Super Kings,Brabourne Stadium,42.48965725965682,60,29.183904567238628
+496,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,43.673392094140745,35,24.781120268973556
+497,Rajasthan Royals,Mumbai Indians,Wankhede Stadium,37.92090276262234,71,46.59027779912346
+498,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadiu,44.903848685030454,34,32.07014319126604
+499,Chennai Super Kings,Royal Challengers Bangalore,M Chinnaswamy Stadiu,49.71397501982292,64,22.321914031526692
+500,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,41.94155395509241,65,35.47453237678091
+501,Delhi Daredevils,Mumbai Indians,Wankhede Stadium,50.581389685035646,47,7.619978053267332
+502,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,44.7432600071735,45,0.5705333173922295
+503,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,45.43005592832406,36,26.194599800900164
+504,Kings XI Punjab,Mumbai Indians,Punjab Cricket Assoc,34.472265509143554,48,28.182780189284262
+505,Mumbai Indians,Kings XI Punjab,Punjab Cricket Assoc,50.00859022499011,62,19.34098350808047
+506,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi Interna,50.9801176897289,25,103.9204707589156
+507,Royal Challengers Bangalore,Sunrisers Hyderabad,Rajiv Gandhi Interna,48.66974514165453,51,4.569127173226411
+508,Rajasthan Royals,Mumbai Indians,Sardar Patel Stadium,43.0856686388767,42,2.584925330658803
+509,Mumbai Indians,Rajasthan Royals,Sardar Patel Stadium,43.016565040804394,47,8.475393530203416
+510,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi Interna,42.47317965679989,41,3.5931211141460797
+511,Kolkata Knight Riders,Sunrisers Hyderabad,Rajiv Gandhi Interna,46.887881710849676,30,56.29293903616559
+512,Kolkata Knight Riders,Mumbai Indians,Barabati Stadium,47.93277451305575,37,29.54803922447499
+513,Mumbai Indians,Kolkata Knight Riders,Barabati Stadium,42.8532503731682,45,4.770554726292886
+514,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadiu,43.090229600700724,34,26.735969413825657
+515,Delhi Daredevils,Royal Challengers Bangalore,M Chinnaswamy Stadiu,44.61192269037062,46,3.0175593687595237
+516,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi Interna,40.10363939211616,43,6.735722343915912
+517,Mumbai Indians,Sunrisers Hyderabad,Rajiv Gandhi Interna,44.07762628440479,38,15.993753380012615
+518,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadiu,43.56995386548017,31,40.54823827574249
+519,Rajasthan Royals,Royal Challengers Bangalore,M Chinnaswamy Stadiu,41.77042253661784,45,7.176838807515903
+520,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,46.419411729074966,52,10.731900521009681
+521,Sunrisers Hyderabad,Delhi Daredevils,Feroz Shah Kotla,45.07446015661788,44,2.441954901404276
+522,Rajasthan Royals,Sunrisers Hyderabad,Sardar Patel Stadium,39.992789630355745,50,20.01442073928851
+523,Sunrisers Hyderabad,Rajasthan Royals,Sardar Patel Stadium,47.41853454501411,37,28.15820147301111
+524,Kings XI Punjab,Chennai Super Kings,Barabati Stadium,38.455453385684265,38,1.1985615412743824
+525,Chennai Super Kings,Kings XI Punjab,Barabati Stadium,52.233404710418675,46,13.55087980525799
+526,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,43.479153811079144,46,5.4801004106975135
+527,Chennai Super Kings,Delhi Daredevils,Feroz Shah Kotla,42.365952909955794,49,13.538871612335113
+528,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadiu,40.215013563486046,47,14.43614135428501
+529,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadiu,49.006234911053156,36,36.128430308480986
+530,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,47.763044543461966,36,32.675123731838795
+531,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,37.95393372196907,49,22.54299240414475
+532,Mumbai Indians,Sunrisers Hyderabad,Dubai International ,45.415694490546635,44,3.217487478515079
+533,Sunrisers Hyderabad,Mumbai Indians,Dubai International ,54.63056546312648,32,70.72051707227025
+534,Kings XI Punjab,Royal Challengers Bangalore,Dubai International ,58.3268624167633,44,32.561050947189315
+535,Royal Challengers Bangalore,Kings XI Punjab,Dubai International ,41.18688373609045,33,24.808738594213487
+536,Delhi Daredevils,Mumbai Indians,Sharjah Cricket Stad,39.835555169639576,37,7.6636626206475045
+537,Mumbai Indians,Delhi Daredevils,Sharjah Cricket Stad,44.38039370492739,31,43.16256033847546
+538,Rajasthan Royals,Royal Challengers Bangalore,Sheikh Zayed Stadium,38.94151125922043,22,77.00686936009285
+539,Royal Challengers Bangalore,Rajasthan Royals,Sheikh Zayed Stadium,46.0810664570893,36,28.00296238080361
+540,Chennai Super Kings,Mumbai Indians,Dubai International ,41.531750182045805,31,33.973387684018725
+541,Mumbai Indians,Chennai Super Kings,Dubai International ,46.005693743805026,51,9.792757365088185
+542,Rajasthan Royals,Chennai Super Kings,Dubai International ,43.77956623857965,51,14.157713257686966
+543,Chennai Super Kings,Rajasthan Royals,Dubai International ,46.70661808801395,38,22.9121528631946
+544,Chennai Super Kings,Delhi Daredevils,Sheikh Zayed Stadium,42.646480375164906,34,25.430824632837957
+545,Delhi Daredevils,Chennai Super Kings,Sheikh Zayed Stadium,47.40380575004742,24,97.51585729186424
+546,Kolkata Knight Riders,Delhi Daredevils,Dubai International ,47.14131607682751,31,52.068761538153254
+547,Delhi Daredevils,Kolkata Knight Riders,Dubai International ,47.104131114240346,49,3.8691201750197024
+548,Sunrisers Hyderabad,Rajasthan Royals,Sheikh Zayed Stadium,56.96724429402295,41,38.94449827810475
+549,Rajasthan Royals,Sunrisers Hyderabad,Sheikh Zayed Stadium,47.69348367028336,30,58.978278900944545
+550,Delhi Daredevils,Royal Challengers Bangalore,Sharjah Cricket Stad,47.1505740132451,30,57.16858004415033
+551,Royal Challengers Bangalore,Delhi Daredevils,Sharjah Cricket Stad,45.079853651684594,50,9.840292696630812
+552,Chennai Super Kings,Mumbai Indians,Eden Gardens,48.699121740933,34,43.232711002744125
+553,Mumbai Indians,Chennai Super Kings,Eden Gardens,47.51571741169565,35,35.7591926048447
+554,Rajasthan Royals,Sunrisers Hyderabad,Feroz Shah Kotla,42.32899105395153,27,56.774040940561235
+555,Sunrisers Hyderabad,Rajasthan Royals,Feroz Shah Kotla,49.01993432727229,44,11.408941652891565
+556,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi Interna,39.41427168059252,33,19.437186910886425
+557,Kolkata Knight Riders,Sunrisers Hyderabad,Rajiv Gandhi Interna,42.09945456349374,45,6.445656525569474
+558,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadiu,46.48222453783182,76,38.839178239694974
+559,Chennai Super Kings,Royal Challengers Bangalore,M Chinnaswamy Stadiu,42.92715117932749,56,23.344372894058058
+560,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi Interna,42.506327046448256,21,102.41108117356312
+561,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi Interna,42.72633363268314,33,29.473738280858008
+562,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,32.951097770017796,49,32.75286169384123
+563,Rajasthan Royals,Mumbai Indians,Wankhede Stadium,47.87597801237467,29,65.08957935301609
+564,Chennai Super Kings,Delhi Daredevils,MA Chidambaram Stadi,46.29418557648623,47,1.5017328159867485
+565,Delhi Daredevils,Chennai Super Kings,MA Chidambaram Stadi,43.90247622705672,49,10.403109740700579
+566,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,40.9126995662081,52,21.32173160344597
+567,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,43.34110920905997,39,11.13104925399993
+568,Kolkata Knight Riders,Royal Challengers Bangalore,JSCA International S,42.58958342965488,22,93.58901558934036
+569,Royal Challengers Bangalore,Kolkata Knight Riders,JSCA International S,53.653018928213015,31,73.07425460713876
+570,Pune Warriors,Mumbai Indians,Subrata Roy Sahara S,43.84679211576063,36,21.796644766001748
+571,Mumbai Indians,Pune Warriors,Subrata Roy Sahara S,47.452570288512675,37,28.250189968953176
+572,Pune Warriors,Kolkata Knight Riders,Subrata Roy Sahara S,44.23116798827985,50,11.5376640234403
+573,Kolkata Knight Riders,Pune Warriors,Subrata Roy Sahara S,42.56378228173596,34,25.18759494628224
+574,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi Interna,43.48281483877887,50,13.034370322442257
+575,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi Interna,45.30381017126582,49,7.543244548437096
+576,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,43.74002319739585,41,6.68298340828256
+577,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,46.64160165521978,38,22.741056987420475
+578,Rajasthan Royals,Pune Warriors,Sawai Mansingh Stadi,46.5305034828922,61,23.720486093619346
+579,Pune Warriors,Rajasthan Royals,Sawai Mansingh Stadi,41.18758714027086,53,22.287571433451212
+580,Sunrisers Hyderabad,Delhi Daredevils,Rajiv Gandhi Interna,42.78235467328327,26,64.54751797416644
+581,Delhi Daredevils,Sunrisers Hyderabad,Rajiv Gandhi Interna,50.16909651299008,41,22.36365003168312
+582,Pune Warriors,Royal Challengers Bangalore,Subrata Roy Sahara S,45.14553246558345,30,50.485108218611494
+583,Royal Challengers Bangalore,Pune Warriors,Subrata Roy Sahara S,45.8211937881251,39,17.49024048237205
+584,Delhi Daredevils,Kolkata Knight Riders,Shaheed Veer Narayan,40.97779608591935,37,10.750800232214463
+585,Kolkata Knight Riders,Delhi Daredevils,Shaheed Veer Narayan,40.406301172872375,34,18.842062273154045
+586,Pune Warriors,Chennai Super Kings,Subrata Roy Sahara S,43.40584838665542,29,49.67533926432904
+587,Chennai Super Kings,Pune Warriors,Subrata Roy Sahara S,47.92022174604939,46,4.174395100107375
+588,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadi,45.48014733178302,55,17.308823033121776
+589,Royal Challengers Bangalore,Rajasthan Royals,Sawai Mansingh Stadi,43.724020236755614,45,2.8355105849875253
+590,Delhi Daredevils,Pune Warriors,Shaheed Veer Narayan,43.934481244554156,37,18.74184120149772
+591,Pune Warriors,Delhi Daredevils,Shaheed Veer Narayan,45.71032139333962,43,6.303073007766556
+592,Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadi,42.51167965137631,29,46.59199879784936
+593,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadi,46.759762229508404,30,55.865874098361346
+594,Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadi,43.86612508133067,40,9.66531270332668
+595,Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadi,49.37029151907297,58,14.878807725736257
+596,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,45.34964830525321,40,13.37412076313303
+597,Kings XI Punjab,Delhi Daredevils,Feroz Shah Kotla,49.7303310234337,56,11.19583745815411
+598,Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadi,38.69573341654798,55,29.644121060821853
+599,Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadi,48.23717227068981,58,16.832461602258945
+600,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,45.881675915353604,24,91.17364964730669
+601,Mumbai Indians,Delhi Daredevils,Feroz Shah Kotla,46.43788861232272,60,22.603518979462127
+602,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,46.02050657143669,47,2.0840285714112956
+603,Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,46.56371216531808,27,72.45819320488178
+604,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,52.62595540824474,39,34.93834720062755
+605,Chennai Super Kings,Delhi Daredevils,Feroz Shah Kotla,44.936849348044994,32,40.427654212640604
+606,Pune Warriors,Sunrisers Hyderabad,Maharashtra Cricket ,43.23198709914896,25,72.92794839659584
+607,Sunrisers Hyderabad,Pune Warriors,Maharashtra Cricket ,45.783835116110644,41,11.667890527099132
+608,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadiu,43.75092692372102,43,1.746341683072134
+609,Delhi Daredevils,Royal Challengers Bangalore,M Chinnaswamy Stadiu,49.99328305337871,48,4.152673027872314
+610,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadi,41.828764009344525,34,23.02577649807213
+611,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadi,47.02303553435607,48,2.03534263675819
+612,Chennai Super Kings,Royal Challengers Bangalore,MA Chidambaram Stadi,48.43711214589229,33,46.77912771482513
+613,Royal Challengers Bangalore,Chennai Super Kings,MA Chidambaram Stadi,43.90466246075634,31,41.62794342179465
+614,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,37.501186189780306,29,29.31443513717347
+615,Sunrisers Hyderabad,Delhi Daredevils,Feroz Shah Kotla,45.887682823324276,38,20.757060061379672
+616,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadiu,45.89325359592406,44,4.302849081645587
+617,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadiu,45.99981573191005,43,6.97631565560476
+618,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadiu,38.714710678503145,40,3.213223303742137
+619,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadiu,43.94183192209348,47,6.506740591290473
+620,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadi,42.597312079734415,35,21.706605942098328
+621,Kolkata Knight Riders,Rajasthan Royals,Sawai Mansingh Stadi,44.05390120385976,40,10.134753009649398
+622,Pune Warriors,Kings XI Punjab,Subrata Roy Sahara S,48.29687392319873,24,101.2369746799947
+623,Kings XI Punjab,Pune Warriors,Subrata Roy Sahara S,47.921489650413456,56,14.425911338547401
+624,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,42.23848053524063,45,6.136709921687482
+625,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,53.71723202957505,39,37.73649238352577
+626,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadiu,44.77589313793951,31,44.4383649610952
+627,Mumbai Indians,Royal Challengers Bangalore,M Chinnaswamy Stadiu,44.52366510668803,38,17.167539754442178
+628,Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadi,43.42536086308761,54,19.582665068356274
+629,Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadi,45.00488985280182,56,19.6341252628539
+630,Chennai Super Kings,Mumbai Indians,M Chinnaswamy Stadiu,49.76167630405526,30,65.87225434685085
+631,Mumbai Indians,Chennai Super Kings,M Chinnaswamy Stadiu,48.845913940517455,54,9.544603813856565
+632,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadi,53.5102426240963,31,72.6136858841816
+633,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadi,50.2257190123131,44,14.149361391620682
+634,Pune Warriors,Kolkata Knight Riders,Subrata Roy Sahara S,48.48510784138021,27,79.57447348659338
+635,Kolkata Knight Riders,Pune Warriors,Subrata Roy Sahara S,48.8800716873424,40,22.200179218356002
+636,Deccan Chargers,Rajasthan Royals,Rajiv Gandhi Interna,41.52536286124829,41,1.281372832312902
+637,Rajasthan Royals,Deccan Chargers,Rajiv Gandhi Interna,39.794496488054975,58,31.388799158525906
+638,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,46.47382887957204,42,10.65197352279057
+639,Royal Challengers Bangalore,Delhi Daredevils,Feroz Shah Kotla,45.28556768864657,51,11.204769237947897
+640,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,42.878619252804455,47,8.76889520679903
+641,Kings XI Punjab,Delhi Daredevils,Feroz Shah Kotla,47.743748201483875,37,29.03715730130777
+642,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadiu,43.259053387376696,40,8.14763346844174
+643,Mumbai Indians,Royal Challengers Bangalore,M Chinnaswamy Stadiu,38.37248458407219,32,19.914014325225594
+644,Rajasthan Royals,Pune Warriors,Sawai Mansingh Stadi,43.71578663812338,45,2.8538074708369265
+645,Pune Warriors,Rajasthan Royals,Sawai Mansingh Stadi,43.61887235542215,33,32.17840107703681
+646,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,39.78784659144754,49,18.800313078678492
+647,Mumbai Indians,Kolkata Knight Riders,Eden Gardens,39.03563700768094,32,21.986365649002938
+648,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadi,43.10959086935773,28,53.96282453342047
+649,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadi,43.19222732700544,36,19.97840924168178
+650,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,48.70107576986278,25,94.80430307945113
+651,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,48.54047940878064,35,38.68708402508754
+652,Pune Warriors,Rajasthan Royals,Subrata Roy Sahara S,44.65729863947562,35,27.5922818270732
+653,Rajasthan Royals,Pune Warriors,Subrata Roy Sahara S,46.325608533474345,49,5.457941768419705
+654,Royal Challengers Bangalore,Deccan Chargers,M Chinnaswamy Stadiu,49.065029285769306,46,6.663107142976752
+655,Deccan Chargers,Royal Challengers Bangalore,M Chinnaswamy Stadiu,53.27162455394632,46,15.80787946510069
+656,Kings XI Punjab,Rajasthan Royals,Punjab Cricket Assoc,44.176472775999756,64,30.974261287500383
+657,Rajasthan Royals,Kings XI Punjab,Punjab Cricket Assoc,41.514421181043424,33,25.801276306192193
+658,Chennai Super Kings,Deccan Chargers,MA Chidambaram Stadi,44.849517976628015,56,19.911575041735688
+659,Deccan Chargers,Chennai Super Kings,MA Chidambaram Stadi,35.484581695043616,47,24.500890010545497
+660,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadiu,52.404780504397166,33,58.8023651648399
+661,Kings XI Punjab,Royal Challengers Bangalore,M Chinnaswamy Stadiu,57.003621944316926,53,7.554003668522502
+662,Deccan Chargers,Pune Warriors,Barabati Stadium,48.15095177149293,33,45.911975065130086
+663,Pune Warriors,Deccan Chargers,Barabati Stadium,36.30444480100222,48,24.36573999791204
+664,Mumbai Indians,Deccan Chargers,Wankhede Stadium,52.72564272594137,38,38.75169138405624
